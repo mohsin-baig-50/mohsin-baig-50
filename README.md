@@ -13,10 +13,4 @@ current_focus: Game Development 🎮
 learning: [Flutter, Web Development, Blender, DSA]
 interests: [Coding, Games, UI Design]
 fun_fact: "I enjoy turning ideas into games and solving problems creatively 🎮✨"
-🎯 Goals
 
-🎮 Build my own game
-
-📱 Create useful apps
-
-🚀 Become a professional developer
